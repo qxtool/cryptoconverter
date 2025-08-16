@@ -3,4 +3,4 @@
 ### Использованные технологии:
 TypeScript, React, Redux Toolkit, библиотеки: [choices.js](https://github.com/Choices-js/Choices) и API [Crypto-Convert](https://github.com/coinconvert/crypto-convert)
 
-Скриншоты проекта приложены в папке screenshots.
+[Скриншоты проекта приложены в папке screenshots.](https://github.com/qxtool/cryptoconverter/tree/master/screenshots)
